@@ -1,0 +1,46 @@
+form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid rgb(7, 7, 7);
+    border-radius: 10px;
+    background-color:rgb(194, 180, 180);
+}
+
+fieldset {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+legend {
+    font-weight: bold;
+    color: black;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: grey;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: black;
+    color: beige;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
