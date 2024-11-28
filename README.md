@@ -1,5 +1,5 @@
 Formulario De Registro
 
 - Estructura del formulario: El formulario está dividido en campos que recogen información personal , de contacto , de cuenta y preferencias del usuario. Cada sección está organizada en fieldset para una mejor estructura.
-- Organización del CSS: El CSS está organizado en archivo separado llamado "estilos.css" . Este archivo contiene los estilos básicos para una mejor aparencia del formulario , con colores , márgenes , rellenos y un ancho máximo de 500 px para el formulario.
+- Organización del CSS: El CSS está organizado en archivo separado llamado "estilos.css" . Este archivo contiene estilos básicos para una mejor aparencia del formulario , con colores , márgenes , rellenos y un ancho máximo de 500 px para el formulario.
 - Validaciones implementadas: Todos los campos esenciales tienen el atributo required para asegurar que no se dejen vacíos , el campo de correo electrónico utliza type=email y un patrón para validar el formato del email, el campo de teléfono utiliza type=tel y un patrón para validar el formato del número de teléfono , las contraseñas deben tener al menos una letra mayúscula, una letra minúscula, un número y una longitud de entre 8 y 16 caracteres. Además, se ha implementado una validación en JavaScript para asegurar que las contraseñas coincidan.
