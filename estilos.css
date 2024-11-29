@@ -22,7 +22,7 @@ legend {
 label {
     display: block;
     margin-bottom: 5px;
-    color: grey;
+    color: rgb(51, 3, 74);
 }
 
 input, select, textarea {
